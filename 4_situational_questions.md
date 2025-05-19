@@ -126,22 +126,23 @@
      - Improve work-life balance
      - Implement team-building activities
 
-16. **How would you handle a situation where you inherit a codebase with no tests and poor documentation?** [Intermediate]
-   - Answer: I would:
-     - Create a knowledge map of the existing system
-     - Implement monitoring to understand runtime behavior
-     - Gradually add tests around critical paths
-     - Document as we learn through "archaeological coding"
-     - Establish quality gates for new code
-     - Create a prioritized technical debt roadmap
+16. **How would you approach optimizing a slow-performing application?** [Intermediate]
+   - Answer: Based on my experience optimizing Java backend algorithms:
+     - I would first establish performance baselines and metrics
+     - Use profiling tools to identify bottlenecks
+     - Optimize database queries and implement caching where appropriate
+     - Refactor inefficient algorithms and data structures
+     - Implement load balancing for high-traffic scenarios
+     - Measure improvements against baseline (like the 20% response time reduction I achieved)
 
-17. **What would you do if your team is asked to deliver a critical feature but the deadline seems impossible?** [Advanced]
-   - Answer: I would:
-     - Break down the feature to identify must-haves vs. nice-to-haves
-     - Propose a phased approach with incremental value delivery
-     - Identify potential shortcuts and their technical debt implications
-     - Negotiate scope or timeline with stakeholders using data
-     - Ensure team health by managing overtime expectations
+17. **How would you implement security in a financial application?** [Advanced]
+   - Answer: Drawing from my experience with Spring Security:
+     - Implement robust authentication with multi-factor options
+     - Set up proper authorization with role-based access control
+     - Secure all API endpoints and implement proper input validation
+     - Use encryption for sensitive data at rest and in transit
+     - Conduct regular security audits and penetration testing
+     - Stay compliant with financial regulations and standards
 
 18. **How would you handle a situation where a team member is not performing well?**
    - Answer: I would:

@@ -141,3 +141,19 @@
      - Clear career progression frameworks
      - Balanced team compositions for projects
      - Opportunities for junior members to lead in specific areas
+
+18. **How do you approach knowledge sharing within your development team?** [Intermediate]
+   - Answer: Drawing from my experience leading design thinking workshops:
+     - I establish regular knowledge sharing sessions
+     - Create comprehensive documentation
+     - Implement pair programming practices
+     - Organize technical workshops on specific topics
+     - Encourage team members to present new technologies they've researched
+
+19. **How do you balance technical debt reduction with feature development?** [Advanced]
+   - Answer: Based on my experience optimizing applications:
+     - I quantify technical debt impact on metrics (like the 40% page load time improvement I achieved)
+     - Allocate 20-30% of sprint capacity to technical improvements
+     - Prioritize debt that affects user experience or system stability
+     - Combine debt reduction with feature work where possible
+     - Communicate the business value of technical improvements to stakeholders

@@ -324,3 +324,35 @@ Result:
 8. Use recent examples
 9. Show continuous improvement
 10. Demonstrate learning
+
+### 16. API Integration and Optimization
+Situation: External system integrations were causing data transfer bottlenecks
+Task: Improve API performance and reduce data transfer times
+Action: 
+- Analyzed existing API architecture and identified inefficiencies
+- Implemented RESTful API best practices
+- Optimized data payload structures
+- Added caching mechanisms for frequently accessed data
+- Implemented asynchronous processing for non-critical operations
+Result: 
+- Reduced data transfer times by 60%
+- Improved operational efficiency across departments
+- Enhanced system reliability with 99.9% uptime
+- Decreased server response times by 15 milliseconds
+- Received recognition for technical excellence
+
+### 17. Frontend Performance Optimization
+Situation: Web application suffered from slow page load times affecting user retention
+Task: Revamp the application frontend to improve performance metrics
+Action: 
+- Refactored React components for better rendering efficiency
+- Implemented code splitting and lazy loading
+- Optimized asset delivery and caching strategies
+- Added performance monitoring tools
+- Conducted A/B testing to validate improvements
+Result: 
+- Decreased page load times by 40%
+- Increased user retention by 35%
+- Reduced critical errors by 20%
+- Extended average session duration by 2 minutes
+- Improved overall user satisfaction metrics
