@@ -1,132 +1,24 @@
 # Company-Specific Leadership Questions
 
-## Tech Companies
+## Indian Tech Companies
 
 ### Infosys
-1. **How would you contribute to Infosys' digital transformation initiatives?**
-   - Answer: I would focus on:
-     - Digital innovation
-     - Agile methodologies
-     - Customer-centric solutions
-     - Cross-functional collaboration
-     - Continuous improvement
+25. **How would you apply your previous experience at Infosys to a leadership role?**
+   - Answer: I would leverage my experience to:
+     - Implement efficient deployment processes that delivered projects 20% faster
+     - Apply optimization techniques that improved backend performance by 20%
+     - Utilize my understanding of Infosys' delivery model and client expectations
+     - Implement bulk upload functionality to decrease user effort by 30%
+     - Foster a culture of continuous improvement and innovation
 
-2. **Describe your experience with Infosys' pyramid model.**
-   - Answer: I understand:
-     - Client engagement
-     - Solution delivery
-     - Knowledge management
-     - Talent management
-     - Process excellence
-
-3. **How would you implement Infosys' "Integrated Digital Platform" strategy?**
-   - Answer: I would focus on:
-     - Digital integration
-     - Platform scalability
-     - Innovation acceleration
-     - Customer experience
-     - Business value
-
-### TCS
-4. **How would you implement TCS' "Customer First" philosophy?**
-   - Answer: I would ensure:
-     - Customer-centric solutions
-     - Regular communication
-     - Proactive problem-solving
-     - Continuous improvement
-     - Value delivery
-
-5. **Describe your experience with TCS' "Global Delivery Model".**
-   - Answer: I understand:
-     - Multi-site coordination
-     - Time zone management
-     - Resource optimization
-     - Quality assurance
-     - Risk management
-
-6. **How would you contribute to TCS' "Digital First" strategy?**
-   - Answer: I would focus on:
-     - Digital transformation
-     - Innovation acceleration
-     - Customer experience
-     - Business value
-     - Continuous improvement
-
-### SAP
-7. **How would you lead a team in SAP's "Run Simple" strategy?**
-   - Answer: I would focus on:
-     - Process simplification
-     - Technology innovation
-     - Customer experience
-     - Business value
-     - Continuous improvement
-
-8. **Describe your experience with SAP's "Digital Core".**
-   - Answer: I understand:
-     - Cloud integration
-     - Data analytics
-     - Process optimization
-     - Digital transformation
-     - Business intelligence
-
-9. **How would you implement SAP's "Intelligent Enterprise" vision?**
-   - Answer: I would focus on:
-     - AI integration
-     - Machine learning
-     - Real-time analytics
-     - Process automation
-     - Business intelligence
-
-### Microsoft
-10. **How would you contribute to Microsoft's "Cloud First" strategy?**
-    - Answer: I would focus on:
-      - Cloud integration
-      - Azure implementation
-      - Digital transformation
-      - Security measures
-      - Innovation acceleration
-
-11. **Describe your experience with Microsoft's "Modern Workplace" approach.**
-    - Answer: I understand:
-      - Remote work
-      - Digital collaboration
-      - Security measures
-      - Employee experience
-      - Productivity tools
-
-### IBM
-12. **How would you implement IBM's "Hybrid Cloud" strategy?**
-    - Answer: I would focus on:
-      - Multi-cloud implementation
-      - Security measures
-      - Integration services
-      - Cost optimization
-      - Business continuity
-
-13. **Describe your experience with IBM's "AI First" approach.**
-    - Answer: I understand:
-      - AI implementation
-      - Machine learning
-      - Data analytics
-      - Business intelligence
-      - Innovation acceleration
-
-### Accenture
-14. **How would you implement Accenture's "New" strategy?**
-    - Answer: I would focus on:
-      - Digital transformation
-      - Innovation acceleration
-      - Customer experience
-      - Business value
-      - Continuous improvement
-
-15. **Describe your experience with Accenture's "Digital Core" approach.**
-    - Answer: I understand:
-      - Cloud integration
-      - Data analytics
-      - Process optimization
-      - Digital transformation
-      - Business intelligence
+### Physics Wallah
+26. **How would you contribute to Physics Wallah's edtech platform development?**
+   - Answer: Based on my experience there, I would:
+     - Apply React and Spring Boot expertise to improve application performance
+     - Implement microservices architecture for better scalability
+     - Focus on reducing page load times and improving user retention
+     - Organize design thinking workshops to identify user needs
+     - Develop RESTful APIs to enhance data processing speeds
 
 ## Common Company-Specific Questions
 

@@ -10,6 +10,22 @@
 3. **How do you balance technical innovation with practical implementation?**
    - Answer: I prioritize understanding business needs while maintaining technical excellence through proof-of-concepts and iterative implementation.
 
+21. **How have you leveraged cloud technologies to improve application performance?** [Intermediate]
+   - Answer: I would share my experience with AWS and Azure, focusing on:
+     - Implementing AWS Rekognition API for user verification, reducing manual verification time by 50%
+     - Utilizing cloud-native services for scalability
+     - Optimizing resource allocation to reduce costs
+     - Implementing CI/CD pipelines for faster deployment
+     - Monitoring and improving performance metrics continuously
+
+22. **How do you approach microservices architecture decisions?** [Advanced]
+   - Answer: Based on my experience developing RESTful APIs with microservices:
+     - I evaluate business domain boundaries first
+     - Consider team structure and ownership
+     - Implement proper service discovery and communication patterns
+     - Ensure robust error handling and circuit breakers
+     - Monitor performance to identify and resolve bottlenecks, as I did when reducing data transfer times by 60%
+
 ## Architecture & Design
 4. **Describe your experience with technical architecture decisions.**
    - Answer: [Detailed answer about technical architecture experience]
